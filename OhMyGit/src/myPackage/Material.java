@@ -5,4 +5,7 @@ public class Material {
 		return "ich bin ein Material";
 	}
 
+	String branchInDemIchCommittedWurdeNennen() {
+		return "ich bin in ersterBranch hinzugefügt worden.";
+	}
 }
