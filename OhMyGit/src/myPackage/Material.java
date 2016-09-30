@@ -5,4 +5,7 @@ public class Material {
 		return "ich bin ein Material";
 	}
 
+	String zweitenNamenNennen() {
+		return "ich bin ein Material";
+	}
 }
