@@ -13,4 +13,9 @@ public class Material {
 		return "ich bin in ersterBranch hinzugefügt worden.";
 
 	}
+	
+	String drittenNamenNennen() {
+		return "ich bin in Master hinzugefügt worden.";
+	}
+	
 }
