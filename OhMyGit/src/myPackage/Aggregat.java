@@ -8,6 +8,7 @@ public class Aggregat {
 		System.out.println("drittes Commit");
 		
 		System.out.println("Commit von schwarzem eclipse");
+		System.out.println("Commit von schwarzem eclipse 02");
 		
 		
 
