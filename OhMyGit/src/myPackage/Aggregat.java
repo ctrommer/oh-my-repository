@@ -7,6 +7,8 @@ public class Aggregat {
 		System.out.println("zweites Commit");
 		System.out.println("drittes Commit");
 		
+		System.out.println("Kalles erstes Commit");
+		
 
 	}
 
