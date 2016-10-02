@@ -3,6 +3,7 @@ package myPackage;
 public class Material {
 	String namenNennen() {
 		System.out.println("Kalles zweites Commit");
+		System.out.println("Commit von schwarzem eclipse 04");		
 		return "ich bin ein Material";
 	}
 
