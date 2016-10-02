@@ -12,6 +12,8 @@ public class Aggregat {
 		
 		System.out.println("Kalles erstes Commit");
 		System.out.println("Kalles drittes Commit");
+		
+		System.out.println("Commit von schwarzem eclipse 03");
 				
 
 	}
