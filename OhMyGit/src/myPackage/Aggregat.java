@@ -26,7 +26,8 @@ public class Aggregat {
 		
 		System.out.println("Weisses Commit Nr 001");
 		
-		
+		System.out.println("Weisses Commit Nr 002");
+				
 	}
 
 }

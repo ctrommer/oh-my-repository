@@ -4,6 +4,7 @@ public class Material {
 	String namenNennen() {
 		System.out.println("Kalles zweites Commit");
 		System.out.println("Commit von schwarzem eclipse 04");		
+		System.out.println("Weisses Commit Nr 002");
 		return "ich bin ein Material";
 	}
 
