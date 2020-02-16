@@ -23,6 +23,10 @@ public class Aggregat {
 		System.out.println("Commit von schwarzem eclipse 06");
 		
 		System.out.println("Kalles Commit Nr 6");
+		
+		System.out.println("Weisses Commit Nr 001");
+		
+		
 	}
 
 }
