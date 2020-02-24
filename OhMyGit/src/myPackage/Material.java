@@ -5,6 +5,7 @@ public class Material {
 		System.out.println("Kalles zweites Commit");
 		System.out.println("Commit von schwarzem eclipse 04");		
 		System.out.println("Weisses Commit Nr 002");
+		System.out.println("Graues Commit Nr. 004");
 		return "ich bin ein Material";
 	}
 
