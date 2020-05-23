@@ -16,7 +16,7 @@ public class Steuer {
 		
 		System.out.println("Weisser Branch01 Commit 03");
 		
-		System.out.println("Weisser Branch01 Commit 04");
+
 
 		System.out.println("Master Commit AA");
 		
