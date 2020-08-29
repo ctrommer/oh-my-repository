@@ -8,6 +8,7 @@ public class Material {
 		System.out.println("Graues Commit Nr. 004");
 		System.out.println("Weisses Commit Nr 007");
 		System.out.println("Graues Commit Nr. 005");
+		System.out.println("Weisses Commit Weisser Branch01 Nr. C");		
 		return "ich bin ein Material";
 	}
 
