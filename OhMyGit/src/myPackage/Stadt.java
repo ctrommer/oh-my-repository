@@ -12,5 +12,7 @@ public class Stadt {
 	// Rot commit B
 	
 	// master commit C	
+	
+	// Blau Commit B
 
 }
